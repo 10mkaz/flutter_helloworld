@@ -11,11 +11,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Text(
-            'Flutter Hello world',
-            style: Theme
-                .of(context)
-                .textTheme
-                .display1,
+            'Flutter Hello world'
           ),
         ),
       ),
